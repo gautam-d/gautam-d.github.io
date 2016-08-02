@@ -1,0 +1,45 @@
+body							{ font-family: Arial; font-size: 100%; color: black; text-align: left; }
+
+header							{ background-color: black; margin-top: 0; margin-bottom: 0; padding-top: 10px; padding-bottom: 10px; }
+
+nav								{ background-color: rgba(225,225,225,1); margin-top: 0; margin-bottom: 0; padding-top: 10px; padding-bottom: 10px; }
+
+h1								{ color: white; font-size: 3.5em; font-weight: bold; margin-top: 0; margin-bottom: 0;}
+h2								{ font-size: 1.35em; font-weight: bold; margin-top: 0; margin-bottom: 0;}
+h3								{ font-size: 1.15em; font-weight: bold; margin-top: 0; margin-bottom: 0;}
+h4								{ font-size: 1.00em; font-weight: bold; margin-top: 0; margin-bottom: 0;}
+h5								{ font-size: 1.00em; font-weight: normal; font-style:italic; margin-top: 0; margin-bottom: 0;}
+
+section.post					{ display: inline-block; margin-top: 0; margin-bottom: 0; padding-top: 10px; padding-bottom: 10px; padding-left: 50px; padding-right: 50px; }
+section.image_gallery			{ display: inline-block; margin-top: 0; margin-bottom: 0; margin-left: auto; margin-right: auto; padding-top: 10px; padding-bottom: 10px; padding-left: 50px; padding-right: 50px; text-align: center;}
+section.recipe_step				{ display: block; margin-top: 0; margin-bottom: 0; padding-top: 10px; padding-bottom: 10px; padding-left: 50px; padding-right: 50px; }
+
+p								{ margin-top: 0; margin-bottom: 0; }
+p.timestamp						{ margin-top: 0; margin-bottom: 0; color:gray; font-style:italic; }
+
+a:link							{ color: inherit; text-decoration: underline; } 
+a:visited						{ color: inherit; text-decoration: underline; } 
+a:hover							{ color: inherit; text-decoration: underline; } 
+a:active						{ color: inherit; text-decoration: underline; }
+
+figure.art_thumbnail 			{ display: inline-block; margin-left: 10px; margin-right: 10px; margin-top: 5px; margin-bottom: 5px; vertical-align: bottom;}
+figure.art_thumbnail img 		{ width: 300px; }
+figure.art_thumbnail figcaption	{ text-align: center; font-style:italic }
+
+figure.recipe_image 			{ display: inline-block; margin-left: 10px; margin-right: 10px; margin-top: 5px; margin-bottom: 5px; vertical-align: middle;}
+figure.recipe_image img 		{ max-width: 500px;}
+
+table.table_1					{ border-collapse: collapse; border: 0px; table-layout: fixed; }
+
+table.recipe_time				{ border-collapse: collapse;  table-layout: fixed; }
+table.recipe_time td       		{ border-width: 0px; min-width: 100px; }
+
+table.recipe_servings			{ border-collapse: collapse;  table-layout: fixed; }
+table.recipe_servings td       	{ border-width: 0px; min-width: 100px; }
+
+table.recipe_ingredients		{ table-layout: fixed; border-collapse:collapse; }
+table.recipe_ingredients td		{ border-width: 1px; border-style: solid; border-color: rgba(255,255,255,1); min-width: 150px; background-color: rgba(225,225,225,1); 
+								  padding-left: 10px; padding-right: 10px; padding-top: 2px; padding-bottom: 2px; 
+								  vertical-align: top; }
+
+
