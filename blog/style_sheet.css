@@ -19,7 +19,7 @@ p.timestamp						{ margin-top: 0; margin-bottom: 0; color:gray; font-style:itali
 
 a:link							{ color: inherit; text-decoration: underline; } 
 a:visited						{ color: inherit; text-decoration: underline; } 
-a:hover							{ color: inherit; text-decoration: underline; } 
+a:hover							{ color: gray; text-decoration: underline; } 
 a:active						{ color: inherit; text-decoration: underline; }
 
 figure.art_thumbnail 			{ display: inline-block; margin-left: 10px; margin-right: 10px; margin-top: 5px; margin-bottom: 5px; vertical-align: bottom;}
