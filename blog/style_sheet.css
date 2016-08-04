@@ -11,7 +11,7 @@ h4								{ font-size: 1.00em; font-weight: bold; margin-top: 0; margin-bottom: 
 h5								{ font-size: 1.00em; font-weight: normal; font-style:italic; margin-top: 0; margin-bottom: 0;}
 
 section.post					{ display: inline-block; margin-top: 0; margin-bottom: 0; padding-top: 10px; padding-bottom: 10px; padding-left: 50px; padding-right: 50px; }
-section.image_gallery			{ display: inline-block; margin-top: 0; margin-bottom: 0; margin-left: auto; margin-right: auto; padding-top: 10px; padding-bottom: 10px; padding-left: 50px; padding-right: 50px; text-align: center;}
+section.image_gallery			{ display: inline-block; margin-top: 0; margin-bottom: 0; margin-left: auto; margin-right: auto; padding-top: 10px; padding-bottom: 10px; padding-left: 50px; padding-right: 50px; ;}
 section.recipe_step				{ display: block; margin-top: 0; margin-bottom: 0; padding-top: 10px; padding-bottom: 10px; padding-left: 50px; padding-right: 50px; }
 
 p								{ margin-top: 0; margin-bottom: 0; }
