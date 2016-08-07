@@ -15,12 +15,14 @@ section.image_gallery			{ display: inline-block; margin-top: 0; margin-bottom: 0
 section.recipe_step				{ display: block; margin-top: 0; margin-bottom: 0; padding-top: 10px; padding-bottom: 10px; padding-left: 50px; padding-right: 50px; }
 
 p								{ margin-top: 0; margin-bottom: 0; }
-p.timestamp						{ margin-top: 0; margin-bottom: 0; color:gray; font-style:italic; }
+p.timestamp						{ margin-top: 0; margin-bottom: 0; color: rgba(102,102,102,1); font-style:italic; }
 
 a:link							{ color: inherit; text-decoration: underline; } 
 a:visited						{ color: inherit; text-decoration: underline; } 
-a:hover							{ color: gray; text-decoration: underline; } 
+a:hover							{ color: rgba(102,102,102,1); text-decoration: underline; } 
 a:active						{ color: inherit; text-decoration: underline; }
+
+a:hover img						{ opacity: 0.8; }
 
 figure.art_thumbnail 			{ display: inline-block; margin-left: 10px; margin-right: 10px; margin-top: 5px; margin-bottom: 5px; vertical-align: bottom;}
 figure.art_thumbnail img 		{ width: 300px; }
