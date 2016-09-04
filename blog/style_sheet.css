@@ -29,7 +29,7 @@ figure.art_thumbnail img 		{ width: 300px; }
 figure.art_thumbnail figcaption	{ text-align: center; font-style:italic }
 
 figure.recipe_image 			{ display: inline-block; margin-left: 10px; margin-right: 10px; margin-top: 5px; margin-bottom: 5px; vertical-align: middle;}
-figure.recipe_image img 		{ max-width: 500px;}
+figure.recipe_image img 		{ max-width: 300px;}
 
 table.table_1					{ border-collapse: collapse; border: 0px; table-layout: fixed; }
 
