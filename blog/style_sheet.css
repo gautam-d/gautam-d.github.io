@@ -25,7 +25,7 @@ a:active						{ color: inherit; text-decoration: underline; }
 a:hover img						{ opacity: 0.8; }
 
 figure.home_thumbnail 			{ display: inline-block; margin-left: 10px; margin-right: 10px; margin-top: 5px; margin-bottom: 5px; vertical-align: bottom;}
-figure.home_thumbnail img 		{ width: 150px; }
+figure.home_thumbnail img 		{ width: 300px; }
 
 figure.art_thumbnail 			{ display: inline-block; margin-left: 10px; margin-right: 10px; margin-top: 5px; margin-bottom: 5px; vertical-align: bottom;}
 figure.art_thumbnail img 		{ width: 300px; }
