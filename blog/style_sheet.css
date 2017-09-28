@@ -11,7 +11,8 @@ h4								{ font-size: 1.00em; font-weight: bold; margin-top: 0; margin-bottom: 
 h5								{ font-size: 1.00em; font-weight: normal; font-style:italic; margin-top: 0; margin-bottom: 0;}
 
 section.post					{ display: inline-block; margin-top: 0; margin-bottom: 0; padding-top: 10px; padding-bottom: 10px; padding-left: 50px; padding-right: 50px; }
-section.image_gallery			{ display: inline-block; margin-top: 0; margin-bottom: 0; margin-left: auto; margin-right: auto; padding-top: 10px; padding-bottom: 10px; padding-left: 50px; padding-right: 50px; ;}
+section.image_gallery			{ display: inline-block; margin-top: 0; margin-bottom: 0; margin-left: auto; margin-right: auto; padding-top: 10px; padding-bottom: 10px; 
+	                              padding-left: 50px; padding-right: 50px; ;}
 section.recipe_step				{ display: block; margin-top: 0; margin-bottom: 0; padding-top: 10px; padding-bottom: 10px; padding-left: 50px; padding-right: 50px; }
 
 p								{ margin-top: 0; margin-bottom: 0; }
@@ -40,7 +41,7 @@ table.recipe_time				{ border-collapse: collapse;  table-layout: fixed; }
 table.recipe_time td       		{ border-width: 0px; min-width: 100px; }
 
 table.recipe_servings			{ border-collapse: collapse;  table-layout: fixed; }
-table.recipe_servings td       	{ border-width: 0px; min-width: 100px; }
+table.recipe_servings td       	{ border-width: 0px; }
 
 table.recipe_ingredients		{ table-layout: fixed; border-collapse:collapse; }
 table.recipe_ingredients td		{ border-width: 1px; border-style: solid; border-color: rgba(255,255,255,1); min-width: 150px; background-color: rgba(225,225,225,1); 
@@ -48,3 +49,5 @@ table.recipe_ingredients td		{ border-width: 1px; border-style: solid; border-co
 								  vertical-align: top; }
 						
 ul.recipe_list					{ list-style-position: inside; }
+
+ul.bullet_list                  { list-style-type: disc; list-style-position: inside; margin: 0; padding: 0; }		
