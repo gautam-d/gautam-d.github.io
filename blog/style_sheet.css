@@ -15,7 +15,7 @@ nav		{ background-color: rgba(225,225,225,1); margin-top: 0; margin-bottom: 0; p
 section.post			{ display: inline-block; margin-top: 0; margin-bottom: 0; padding-top: 10px; padding-bottom: 10px; padding-left: 50px; padding-right: 50px; }
 
 section.image_gallery	{ display: inline-block; margin-top: 0; margin-bottom: 0; margin-left: auto; margin-right: auto; padding-top: 10px; padding-bottom: 10px; 
-	                              padding-left: 50px; padding-right: 50px; ;}
+	                      padding-left: 50px; padding-right: 50px; ;}
 
 section.recipe_step		{ display: block; margin-top: 0; margin-bottom: 0; padding-top: 10px; padding-bottom: 10px; padding-left: 50px; padding-right: 50px; }
 
