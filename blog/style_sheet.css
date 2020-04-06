@@ -69,16 +69,19 @@ figure.art_thumbnail_pr figcaption		{ text-align: center; font-style:italic; }
 
 figure.recipe_thumbnail 				{ display: inline-block; margin-left: 10px; margin-right: 10px; margin-top: 5px; margin-bottom: 5px; vertical-align: middle; }
 figure.recipe_thumbnail img 			{ width: 400px; }
+figure.recipe_thumbnail_ls figcaption	{ text-align: center; font-style:italic; }
 
 figure.recipe_thumbnail_ls 				{ display: inline-block; margin-left: 10px; margin-right: 10px; margin-top: 5px; margin-bottom: 5px; vertical-align: middle; }
 figure.recipe_thumbnail_ls img 			{ width: 400px;}
+figure.recipe_thumbnail_ls figcaption	{ text-align: center; font-style:italic; }
 
 figure.recipe_thumbnail_pr 				{ display: inline-block; margin-left: 10px; margin-right: 10px; margin-top: 5px; margin-bottom: 5px; vertical-align: middle; }
 figure.recipe_thumbnail_pr img 			{ height: 400px; }
+figure.recipe_thumbnail_pr figcaption	{ text-align: center; font-style:italic; }
 
 figure.other_thumbnail_ls 				{ display: inline-block; margin-left: 10px; margin-right: 10px; margin-top: 5px; margin-bottom: 5px; vertical-align: bottom; }
 figure.other_thumbnail_ls img			{ width: 400px; }
-figure.other_thumbnail_ls figcaption	{ text-align: left; font-style:italic; }
+figure.other_thumbnail_ls figcaption	{ text-align: center; font-style:italic; }
 
 figure.other_thumbnail_pr 				{ display: inline-block; margin-left: 10px; margin-right: 10px; margin-top: 5px; margin-bottom: 5px; vertical-align: bottom; }
 figure.other_thumbnail_pr img 			{ height: 300px; }
